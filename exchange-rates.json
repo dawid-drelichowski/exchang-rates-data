@@ -1,0 +1,108 @@
+{
+  "rates": [
+    {
+      "country": "United Stated",
+      "currency": "USD",
+      "purchase": 0,
+      "sale": 0
+    },
+    {
+      "country": "European Union",
+      "currency": "EUR",
+      "purchase": 0,
+      "sale": 0
+    },
+    {
+      "country": "Great Britain",
+      "currency": "GBP",
+      "purchase": 0,
+      "sale": 0
+    },
+    {
+      "country": "Switzerland",
+      "currency": "CHF",
+      "purchase": 0,
+      "sale": 0
+    },
+    {
+      "country": "Australia",
+      "currency": "AUD",
+      "purchase": 0,
+      "sale": 0
+    },
+    {
+      "country": "Canada",
+      "currency": "CAD",
+      "purchase": 0,
+      "sale": 0
+    },
+    {
+      "country": "Sweden",
+      "currency": "SEK",
+      "purchase": 0,
+      "sale": 0
+    },
+    {
+      "country": "Hungary",
+      "currency": "HUF",
+      "purchase": 0,
+      "sale": 0
+    },
+    {
+      "country": "Denmark",
+      "currency": "DKK",
+      "purchase": 0,
+      "sale": 0
+    },
+    {
+      "country": "Norway",
+      "currency": "NOK",
+      "purchase": 0,
+      "sale": 0
+    },
+    {
+      "country": "Czech Republic",
+      "currency": "CZK",
+      "purchase": 0,
+      "sale": 0
+    },
+    {
+      "country": "Croatia",
+      "currency": "HRK",
+      "purchase": 0,
+      "sale": 0
+    },
+    {
+      "country": "UE coin",
+      "currency": "EURb",
+      "purchase": 0,
+      "sale": 0
+    }
+  ],
+  "offices": [
+    {
+      "map": {
+        "latitude": 51.114206,
+        "longitude": 16.961673,
+        "title": "1st office",
+        "description": "Our main office"
+      },
+      "name": "1st office",
+      "street": "Budziszyńska 25A/34",
+      "city": "Wrocław",
+      "phoneNumber": "+48 666 666 666"
+    },
+    {
+      "map": {
+        "latitude": 51.114206,
+        "longitude": 16.961673,
+        "title": "2nd office'",
+        "description": "Our second office"
+      },
+      "name": "2nd office",
+      "street": "Budziszyńska 25A/34",
+      "city": "Wrocław",
+      "phoneNumber": "+48 666 666 666"
+    }
+  ]
+}
